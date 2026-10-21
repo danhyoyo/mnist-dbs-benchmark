@@ -1,0 +1,38 @@
+# Datasets and experiment outputs
+data/
+runs/
+outputs/
+checkpoints/
+
+# Trained model files
+*.pt
+*.pth
+*.ckpt
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Notebooks and local tooling
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+
+# Logs and generated reports
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
